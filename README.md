@@ -26,5 +26,5 @@
   
 ##  
   
-![Snake animation](https://github.com/cnnsilveira/cnnsilveira/blob/dist/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/cnnsilveira/cnnsilveira/blob/output/github-contribution-grid-snake.svg)
   

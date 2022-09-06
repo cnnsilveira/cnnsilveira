@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm currently learning PHP 📝 
+### I'm currently learning PHP 📝 
 <div align="center">
   <a href="https://github.com/cnnsilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cnnsilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

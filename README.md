@@ -1,4 +1,4 @@
-### I'm currently learning PHP 📝 
+### Currently learning PHP
 
 ##
 

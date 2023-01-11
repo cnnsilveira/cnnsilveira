@@ -1,5 +1,6 @@
 ### Currently learning PHP
 
+<!--
 ##
 
 <div align="center">
@@ -7,6 +8,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cnnsilveira&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnnsilveira&layout=compact&theme=dark"/>
 </div>
+
+-->
 
 ##
 

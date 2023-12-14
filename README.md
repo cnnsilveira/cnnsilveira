@@ -1,3 +1,6 @@
+
+![snake gif](https://github.com/cnnsilveira/cnnsilveira/blob/output/github-contribution-grid-snake.gif)
+
 ##
 
 <div align="center">

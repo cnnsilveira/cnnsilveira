@@ -1,5 +1,5 @@
 
-![snake gif](https://github.com/cnnsilveira/cnnsilveira/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/cnnsilveira/cnnsilveira/blob/output/github-contribution-grid-snake.svg)
 
 ##
 

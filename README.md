@@ -45,7 +45,7 @@ Currently working as freelancer and looking for the oportunity on the right plac
 </div>
 
 <div align="center" valign="top">
-<a   align="center" title="Caio Nunes logo" alt="Caio Nunes logo" href="https://caionunes.dev" target="_blank"><img title="Caio Nunes logo" alt="Caio Nunes logo" height="150" width="150" src="https://caionunes.dev/main/wp-content/themes/caionunes.dev/assets/svg/logo.svg">
+<a   align="center" title="Portfolio website" href="https://caionunes.dev" target="_blank"><img title="Caio Nunes logo" alt="Caio Nunes logo" height="150" width="150" src="https://caionunes.dev/main/wp-content/themes/caionunes.dev/assets/svg/logo.svg">
 </div>
 
 </div><!-- wrapper -->

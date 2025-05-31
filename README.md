@@ -3,7 +3,6 @@
 <p align="center">
 Full-stack developer specialized on WordPress environments.
 <br>
-Currently working as freelancer and looking for the oportunity on the right place.
 </p>
 
 </div>
